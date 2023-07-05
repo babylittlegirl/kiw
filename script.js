@@ -12,13 +12,13 @@ function tb5_makeArray(n){
 }
  
 tb5_messages = new tb5_makeArray(7);
-tb5_messages[0] = "Hay Via";
+tb5_messages[0] = "Hay Namita";
 tb5_messages[1] = "Aku Mau Kamu Tau";
 tb5_messages[2] = "Aku Sayang Sama Kamu";
-tb5_messages[3] = "Aku Serius Vi";
+tb5_messages[3] = "Aku Serius Namita";
 tb5_messages[4] = "Kamu Mau Ngga Jadi Pacar ku";
 tb5_messages[5] = "Aku berharap kamu menerimanya";
-tb5_messages[6] = "I Love You via!!!";
+tb5_messages[6] = "I Love You Namita!!!";
 tb5_rptType = 'infinite';
 tb5_rptNbr = 20;
 tb5_speed = 30;
@@ -127,7 +127,7 @@ position: absolute;top: 0;left: 0;z-index: 3000;cursor: default;}
 ;(function(){
 
 
-var msg = " Love you via:*";
+var msg = " Love you namita:*";
 
 var size = 15;
 
